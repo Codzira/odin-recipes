@@ -1,0 +1,3 @@
+This project uses basic HTML to create a website displaying a main page with links to different recipes.
+By the end of this project, a basic understanding of HTML coding and best practices should be established.
+Should be able to create basic websites without the use of css, understand what each element of the code is doing, understand the basic of directories, and be able to have the proper HTML commands memorized with minimal looking at the lesson plan.
